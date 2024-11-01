@@ -14,8 +14,8 @@ export default function Home() {
               <Image src="/1920x1080.svg" alt="Person holding Samsung Galaxy S23 Ultra" className="w-full" width={100} height={100}/>
               <div className="absolute top-1/4 left-1/4 transform -translate-x-1/2 -translate-y-1/2 text-center">
                   <h2 className="text-white text-4xl font-bold">Eco Power</h2>
-                  <p className="text-white text-xl">Galaxy, AI <i className="fas fa-star text-blue-500"></i> chegou</p>
-                  <button className="mt-4 px-6 py-2 border border-white text-white">COMPRAR AGORA</button>
+                  <p className="text-white text-xl">O poder do <span className="text-slate-900">Ligth Charge</span> <i className="fas fa-star text-blue-500"></i> chegou</p>
+                  <button className="mt-4 px-6 py-2 border border-white text-white hover:bg-slate-900">COMPRAR AGORA</button>
               </div>
               <div className="absolute bottom-1/4 left-1/4 transform -translate-x-1/2 -translate-y-1/2 text-center">
                   <h2 className="text-white text-4xl font-bold">Skill Nível <span className="text-blue-500">S</span></h2>
